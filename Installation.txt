@@ -1,0 +1,34 @@
+# pip install nltk
+# pip install gtts
+# pip install playsound
+
+#pip install pygobject
+#pip install preferredsoundplayer
+#from preferredsoundplayer import playsound
+#pip install PyObjC
+#from pydub import AudioSegment
+#pip install playsound
+#pip install gtts
+#pip install SpeechRecognition pydub
+
+#import nltk
+#nltk.download('punkt')
+
+import nltk
+nltk.download('udhr')
+
+import nltk
+print(nltk.data.path)
+
+import nltk
+nltk.download('inaugural')
+
+#import nltk
+#nltk.download('averaged_perceptron_tagger')
+
+#import nltk
+#nltk.download('treebank')
+
+import nltk
+nltk.download('wordnet')
+
